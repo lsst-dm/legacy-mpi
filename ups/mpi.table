@@ -4,4 +4,3 @@
 # install of mpich, just remove the line below and
 # otherwise ensure the "mpicc" command is included
 # in PATH before installing mpi4py.
-setupRequired(mpich)
